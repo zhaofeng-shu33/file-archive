@@ -10,3 +10,4 @@ draft: true
 
 * [2018深圳高校大学生节水实践活动推送汇总（赵丰）](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/节水推送汇总/节水推送汇总V2.1.xlsx)
 
+* [深圳高校大学生节水实践活动志愿者证书设计PSD文件](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/证书/志愿者证书设计稿V1.8.psd)
