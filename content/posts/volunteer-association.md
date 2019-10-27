@@ -1,7 +1,7 @@
 ---
 title: "大学城志愿者部"
 date: 2019-10-16T00:03:46+08:00
-draft: true
+draft: false
 ---
 
 * [2018深圳南山半马志愿者培训会筹备文案（李新博）](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/大学城志愿者部/半马/南山半马培训流程.docx)

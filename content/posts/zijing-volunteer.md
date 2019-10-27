@@ -1,7 +1,7 @@
 ---
 title: "紫荆志愿者团"
 date: 2019-10-16T00:03:46+08:00
-draft: true
+draft: false
 ---
 
 * [清听深圳策划书（姜伟峰）](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/ “清听深圳”志愿活动策划案.docx)
