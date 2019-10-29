@@ -16,12 +16,13 @@ draft: false
 PPT, WORD, EXCEL, PDF 等，图片因数量较多以及公开重要程度较次之暂不考虑，视频因下载时占用流量过大不会在此站点公开下载
 地址，未来会考虑利用第三方视频平台进行公开。PSD等设计文件如果不是很大也提供链接，较大的文件因没有好的平台暂不考虑。
 
+一些他人创作的内容，考虑到其他地方不会再出现，出于资料存档的考虑也收录在本网站里。他人创作的内容，也尽量以可编辑的形式提供；有的因为没有可编辑的或可编辑的文件过大而只提供生成的文件。
 
 ## 资料是从哪里下载，路径格式是什么
 阿里云OSS服务器，路径格式类似个人网盘的文件目录
 
 ## 资料是否可以复用，版权是
-可以，遵循 [CC-BY](https://baike.baidu.com/item/知识共享)
+部分可以，遵循 [CC-BY](https://baike.baidu.com/item/知识共享)；有一些要征询作者的同意，特别是涉及收录他人的创作内容的部分。
 
 ## 网站源码
 [https://git.lug.ustc.edu.cn/zhaofeng-shu33/file-archive](https://git.lug.ustc.edu.cn/zhaofeng-shu33/file-archive)
