@@ -17,6 +17,8 @@ draft: false
 
 * [深圳高校大学生节水实践活动志愿者证书设计PSD文件（赵丰、王江）](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/证书/志愿者证书设计稿V1.8.psd)
 
+* [节水活动总预算表](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/预决算/节水活动总预结算表V1.0.docx)
+
 ### 各校实践成果
 
 * [2018年北大队节水调研报告20181114](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/各校实践成果/实践报告/2018年北大队节水调研报告20181114.pdf)
