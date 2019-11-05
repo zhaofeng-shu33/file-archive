@@ -8,8 +8,9 @@ draft: false
 
 * [清听深圳策划书（姜伟峰）](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/ “清听深圳”志愿活动策划案.docx)
 
-
 ## 2018深圳高校节水活动相关
+
+* [宣传比赛策划案（姜伟峰）.docx](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/前期工作文件/宣传比赛策划案（姜伟峰）.docx)
 
 * [2018深圳高校大学生节水实践活动总策划（吴琳、赵丰）](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/总策划/2018深圳高校大学生节水实践活动总策划V6.0.docx)
 
@@ -38,3 +39,4 @@ draft: false
 * [清华节水队总结报告.docx](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/各校实践成果/实践报告/清华节水队总结报告.docx)
 
 * [香港中文大学深圳实践调研报告.doc](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/各校实践成果/实践报告/香港中文大学深圳实践调研报告.doc)
+
