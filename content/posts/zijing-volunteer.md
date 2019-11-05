@@ -10,6 +10,12 @@ draft: false
 
 ## 2018深圳高校节水活动相关
 
+* [开幕式筹备工作计划V2.0.docx（赵丰）](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/前期工作文件/开幕式筹备工作计划V2.0.docx)
+
+* [10月6号节水会议纪要V2.docx（熊振文）](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/会议纪要/10月9日会议纪要修改版.docx)
+
+* [10月9日会议纪要修改版.docx（岳晓菲）](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/会议纪要/10月9日会议纪要修改版.docx)
+
 * [宣传比赛策划案（姜伟峰）.docx](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/前期工作文件/宣传比赛策划案（姜伟峰）.docx)
 
 * [2018深圳高校大学生节水实践活动总策划（吴琳、赵丰）](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/总策划/2018深圳高校大学生节水实践活动总策划V6.0.docx)
@@ -19,6 +25,8 @@ draft: false
 * [深圳高校大学生节水实践活动志愿者证书设计PSD文件（赵丰、王江）](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/证书/志愿者证书设计稿V1.8.psd)
 
 * [节水活动总预算表](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/预决算/节水活动总预结算表V1.0.docx)
+
+* [得分统计V2.2活动结束后.xlsx](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/各校实践成果/得分统计V2.2活动结束后.xlsx)
 
 ### 各校实践成果
 
