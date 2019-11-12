@@ -61,3 +61,11 @@ draft: false
 * [10月13日节水活动开幕式主持稿改v2.0.doc](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/开幕式文案/10月13日节水活动开幕式主持稿改v2.0.doc)
 
 * [深圳高校大学生节水倡议书（侯利兵）.docx](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/开幕式文案/深圳高校大学生节水倡议书（侯利兵）.docx)
+
+### 徒步相关
+
+* [徒步大沙河温馨提示V2.docx（赵丰）](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/徒步/徒步大沙河温馨提示V2.docx)
+
+### 调研指导会
+
+* [队长培训.pptx（赵丰）](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/调研指导会/train.pptx)
