@@ -24,6 +24,8 @@ draft: false
 
 * [得分统计V2.2活动结束后.xlsx](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/各校实践成果/得分统计V2.2活动结束后.xlsx)
 
+* [节水问题汇总V3.1.docx](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/FAQ/节水问题汇总V3.1.docx)
+
 ### 各校实践成果
 
 * [2018年北大队节水调研报告20181114](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/各校实践成果/实践报告/2018年北大队节水调研报告20181114.pdf)
@@ -44,3 +46,18 @@ draft: false
 
 * [香港中文大学深圳实践调研报告.doc](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/各校实践成果/实践报告/香港中文大学深圳实践调研报告.doc)
 
+### 开幕式相关
+
+* [2018年深圳高校节水活动启动仪式策划书v1.9.docx(孙策)](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/前期工作文件/2018年深圳高校节水活动启动仪式策划书v1.9.docx)
+
+* [签到表V2.docx](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/开幕式文案/签到表V2.docx)
+
+* [2018届节水活动开幕式PPT_2.8.pptx](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/开幕式文案/2018届节水活动开幕式PPT_2.8.pptx)
+
+* [大学生节水宣传实践活动启动仪式议程V2.5.docx](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/开幕式文案/大学生节水宣传实践活动启动仪式议程V2.5.docx)
+
+* [出席嘉宾名单V1.1.docx](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/开幕式文案/出席嘉宾名单V1.1.docx)
+
+* [10月13日节水活动开幕式主持稿改v2.0.doc](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/开幕式文案/10月13日节水活动开幕式主持稿改v2.0.doc)
+
+* [深圳高校大学生节水倡议书（侯利兵）.docx](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/开幕式文案/深圳高校大学生节水倡议书（侯利兵）.docx)
