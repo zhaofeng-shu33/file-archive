@@ -32,15 +32,15 @@ draft: false
 
 | 学校名称 | 报告 | 答辩PPT |
 |---------|-----|--------|
-| 北大     | [2018年北大队节水调研报告20181114](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/各校实践成果/实践报告/2018年北大队节水调研报告20181114.pdf)   | 2      |
-| 工大一队  | [哈工大一队调研报告终.pdf](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/各校实践成果/实践报告/哈工大一队调研报告终.pdf) | 2     |
-| 南科大   | [南科大节水宣传20181116.docx](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/各校实践成果/实践报告/南科大节水宣传20181116.docx) | 2    |
-| 工大二队  | [哈工大节水二队节水调研报告终版.pdf](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/各校实践成果/实践报告/哈工大节水二队节水调研报告终版.pdf) | 2   |
-| 深信院   | [深信院海绵城市建设现状的调查与分析.docx](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/各校实践成果/实践报告/海绵城市建设现状的调查与分析.docx)  | 2   |
-| 深大     | [深圳大学节水调研报告.docx](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/各校实践成果/实践报告/深圳大学节水调研报告.docx)  | 2    |
-| 深职院   | [深圳职业技术学院绿光环保协会节水调研报告.docx](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/各校实践成果/实践报告/深圳职业技术学院绿光环保协会节水调研报告.docx) | 2    |
-| 清华     | [清华节水队总结报告.docx](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/各校实践成果/实践报告/清华节水队总结报告.docx)  | 2     |
-| 港中深   | [香港中文大学深圳实践调研报告.doc](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/各校实践成果/实践报告/香港中文大学深圳实践调研报告.doc) | 2    |
+| 北大     | [2018年北大队节水调研报告20181114](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/各校实践成果/实践报告/2018年北大队节水调研报告20181114.pdf)   | [2018北大节水队答辩PPT.pptx](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/各校实践成果/答辩PPT/2018北大节水队答辩PPT-20181118.pptx)      |
+| 工大一队  | [哈工大一队调研报告终.pdf](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/各校实践成果/实践报告/哈工大一队调研报告终.pdf) | [哈工大节水一队答辩PPT.pdf](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/各校实践成果/答辩PPT/哈工大节水一队答辩PPT.pdf)     |
+| 南科大   | [南科大节水宣传20181116.docx](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/各校实践成果/实践报告/南科大节水宣传20181116.docx) | [南科大成果汇报.pptx](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/各校实践成果/答辩PPT/南科大成果汇报.pptx)    |
+| 工大二队  | [哈工大节水二队节水调研报告终版.pdf](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/各校实践成果/实践报告/哈工大节水二队节水调研报告终版.pdf) | [哈工大二队-汇报PPT.pdf](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/各校实践成果/答辩PPT/哈工大二队-汇报PPT.pdf)   |
+| 深信院   | [深信院海绵城市建设现状的调查与分析.docx](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/各校实践成果/实践报告/海绵城市建设现状的调查与分析.docx)  | [深圳信息职业技术学院.pptx](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/各校实践成果/答辩PPT/深圳信息职业技术学院.pptx)   |
+| 深大     | [深圳大学节水调研报告.docx](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/各校实践成果/实践报告/深圳大学节水调研报告.docx)  | [深大答辩PPT.pdf](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/各校实践成果/答辩PPT/深大答辩PPT.pdf)    |
+| 深职院   | [深圳职业技术学院绿光环保协会节水调研报告.docx](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/各校实践成果/实践报告/深圳职业技术学院绿光环保协会节水调研报告.docx) | [深职节水小队.pdf](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/各校实践成果/答辩PPT/深职节水小队.pdf)    |
+| 清华     | [清华节水队总结报告.docx](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/各校实践成果/实践报告/清华节水队总结报告.docx)  | [清华节水小队.pptx](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/各校实践成果/答辩PPT/清华节水小队.pptx)     |
+| 港中深   | [香港中文大学深圳实践调研报告.doc](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/各校实践成果/实践报告/香港中文大学深圳实践调研报告.doc) | [港中深节水节.pdf](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/各校实践成果/答辩PPT/港中深节水节.pdf)    |
 
 ### 开幕式相关
 
