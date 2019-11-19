@@ -16,3 +16,5 @@ title = "资料归档"
     title = "日志"
     url = "/posts/"
     weight = 0
+[Params]
+  css = ["style.css"]

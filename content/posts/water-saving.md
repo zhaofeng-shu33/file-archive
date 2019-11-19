@@ -30,23 +30,17 @@ draft: false
 
 ### 各校实践成果
 
-* [2018年北大队节水调研报告20181114](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/各校实践成果/实践报告/2018年北大队节水调研报告20181114.pdf)
-
-* [南科大节水宣传20181116.docx](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/各校实践成果/实践报告/南科大节水宣传20181116.docx)
-
-* [哈工大一队调研报告终.pdf](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/各校实践成果/实践报告/哈工大一队调研报告终.pdf)
-
-* [哈工大节水二队节水调研报告终版.pdf](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/各校实践成果/实践报告/哈工大节水二队节水调研报告终版.pdf)
-
-* [深信院海绵城市建设现状的调查与分析.docx](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/各校实践成果/实践报告/海绵城市建设现状的调查与分析.docx)
-
-* [深圳大学节水调研报告.docx](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/各校实践成果/实践报告/深圳大学节水调研报告.docx)
-
-* [深圳职业技术学院绿光环保协会节水调研报告.docx](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/各校实践成果/实践报告/深圳职业技术学院绿光环保协会节水调研报告.docx)
-
-* [清华节水队总结报告.docx](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/各校实践成果/实践报告/清华节水队总结报告.docx)
-
-* [香港中文大学深圳实践调研报告.doc](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/各校实践成果/实践报告/香港中文大学深圳实践调研报告.doc)
+| 学校名称 | 报告 | 答辩PPT |
+|---------|-----|--------|
+| 北大     | [2018年北大队节水调研报告20181114](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/各校实践成果/实践报告/2018年北大队节水调研报告20181114.pdf)   | 2      |
+| 工大一队  | [哈工大一队调研报告终.pdf](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/各校实践成果/实践报告/哈工大一队调研报告终.pdf) | 2     |
+| 南科大   | [南科大节水宣传20181116.docx](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/各校实践成果/实践报告/南科大节水宣传20181116.docx) | 2    |
+| 工大二队  | [哈工大节水二队节水调研报告终版.pdf](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/各校实践成果/实践报告/哈工大节水二队节水调研报告终版.pdf) | 2   |
+| 深信院   | [深信院海绵城市建设现状的调查与分析.docx](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/各校实践成果/实践报告/海绵城市建设现状的调查与分析.docx)  | 2   |
+| 深大     | [深圳大学节水调研报告.docx](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/各校实践成果/实践报告/深圳大学节水调研报告.docx)  | 2    |
+| 深职院   | [深圳职业技术学院绿光环保协会节水调研报告.docx](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/各校实践成果/实践报告/深圳职业技术学院绿光环保协会节水调研报告.docx) | 2    |
+| 清华     | [清华节水队总结报告.docx](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/各校实践成果/实践报告/清华节水队总结报告.docx)  | 2     |
+| 港中深   | [香港中文大学深圳实践调研报告.doc](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/各校实践成果/实践报告/香港中文大学深圳实践调研报告.doc) | 2    |
 
 ### 开幕式相关
 
