@@ -6,6 +6,8 @@ draft: false
 
 ## 2018深圳高校节水活动相关
 
+<!--more-->
+
 * [开幕式筹备工作计划V2.0.docx（赵丰）](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/前期工作文件/开幕式筹备工作计划V2.0.docx)
 
 * [10月6号节水会议纪要V2.docx（熊振文）](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/会议纪要/10月9日会议纪要修改版.docx)
