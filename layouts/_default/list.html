@@ -1,14 +1,12 @@
 {{ define "main" }}
 
 <main>
-	{{ partial "index/introduction.html" . }}
-
 	<div class="catalogue">
-		{{ range (.Paginate .Site.RegularPages).Pages }}
+		{{ range (.Paginate .Pages).Pages }}
 			{{ .Render "summary" }}
 		{{ end }}
 	</div>
-
+	
 	<div class="pagination">
 		{{ if .Paginator.HasPrev }}
 			<a href="{{ .Paginator.Prev.URL }}" class="left arrow">&#8592;</a>
@@ -16,17 +14,9 @@
 		{{ if .Paginator.HasNext }}
 			<a href="{{ .Paginator.Next.URL }}" class="right arrow">&#8594;</a>
 		{{ end }}
-
+	
 		<span>{{ .Paginator.PageNumber }}</span>
 	</div>
 </main>
-{{ if eq .Site.BaseURL "http://file-archive.leidenschaft.cn/" }}
-<script>
-    var path_name = window.location.pathname;
-    var last_str = path_name[path_name.length-1];
-    if('/' == last_str) {
-        window.location.href = path_name + "index.html";
-    }
-</script>
-{{ end }}
+
 {{ end }}
