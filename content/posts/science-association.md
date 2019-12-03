@@ -5,3 +5,15 @@ draft: false
 ---
 
 * [2018海绵城市讲座场务备忘录](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/讲座/讲座场务备忘录（牛嘉琪）V2.doc)
+
+* [2018年秋季学期团委科协竞选.pptx](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/st_club/2018年秋季学期团委科协竞选.pptx)
+
+* [2018年秋季学期团委科协述职1220.pptx](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/st_club/2018年秋季学期团委科协述职1220.pptx)
+
+## 微沙龙
+
+- [用现有深度学习框架完成图片分类任务.pptx（刘弈卿）](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/st_club/wesalon/2/TPH-link技术交流小组第二次微沙龙.pptx)
+
+- [GAN入门级研讨1103.pptx（白杨）](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/st_club/wesalon/4/GAN入门级研讨1103.pptx)
+
+- [GitHub的使用（童鑫熠）](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/st_club/wesalon/GitHub/GITHUB.pdf)
