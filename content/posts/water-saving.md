@@ -58,6 +58,8 @@ draft: false
 
 * [深圳高校大学生节水倡议书（侯利兵）.docx](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/开幕式文案/深圳高校大学生节水倡议书（侯利兵）.docx)
 
+* [开幕式创意策划案（赵丰）v3.docx](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/工作安排/幕式创意策划案（赵丰）v3.docx)
+
 ### 闭幕式相关
 
 * [闭幕式工作计划3.0.xls（朱丽都孜）](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/water_saving/闭幕式文案/闭幕式工作计划3.0.xls)
