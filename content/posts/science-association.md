@@ -14,6 +14,19 @@ draft: false
 
 - [用现有深度学习框架完成图片分类任务.pptx（刘弈卿）](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/st_club/wesalon/2/TPH-link技术交流小组第二次微沙龙.pptx)
 
+- [小白入手深度学习攻略.pdf（张弓）](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/st_club/wesalon/3/小白入手深度学习攻略.pdf)
+
 - [GAN入门级研讨1103.pptx（白杨）](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/st_club/wesalon/4/GAN入门级研讨1103.pptx)
 
 - [GitHub的使用（童鑫熠）](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/st_club/wesalon/GitHub/GITHUB.pdf)
+
+- [深度神经网络（胡梦颖）](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/st_club/wesalon/tensorflow_learn/tf第四章分享（胡梦颖）.pdf)
+
+## TPH-Link
+
+- [TPH-Link技术交流组介绍](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/st_club/wesalon/planning_tph_v1.3.pdf)
+
+## szlug
+
+- [用开源来做公益（小班）](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/st_club/深圳linux用户组/用开源来做公益@深圳.pdf)
+
