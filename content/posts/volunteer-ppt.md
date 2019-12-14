@@ -9,3 +9,5 @@ draft: false
 * [20190401大学城社区科普交流活动](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/大学城志愿者部/互联网与网站知识V2.pptx)
 
 * [2019PyConChinaShenzhen 闪电演讲](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/pyconfChina2019-shenzhen/PyConfChina2019-Shenzhen.pptx)
+
+* [2019GoogleDevFestShenzhen Speaking](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/devfest-google-shenzhen2019/DevFest2019GoogleTest.pptx)
