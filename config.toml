@@ -14,7 +14,7 @@ title = "资料归档"
     identifier = "posts"
     name = "日志"
     title = "日志"
-    url = "/posts/"
+    url = "/"
     weight = 0
 [Params]
   css = ["style.css"]
