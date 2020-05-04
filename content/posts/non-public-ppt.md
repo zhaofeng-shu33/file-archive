@@ -7,3 +7,4 @@ draft: false
 <!--more-->
 
 * [20191227中国古代文学经典导读课堂展示](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/chinese_literature_pre/chinese_literature_pre.pptx) 许穆夫人
+* [20200305援助武汉黑客松初赛](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/hackathon-2020/Volunteer_CertificateV2.pptx)
