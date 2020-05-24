@@ -6,5 +6,3 @@ draft: false
 
 * [10月28号晚会议（赵丰）](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/meet/10月28号晚会议(1).docx)
 
-* [清听深圳策划书（姜伟峰）](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/2018年秋季学期/ “清听深圳”志愿活动策划案.docx)
-
