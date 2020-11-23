@@ -5,7 +5,7 @@ draft: false
 ---
 
 ## 2019
-* [Party花费.xlsx（赵丰）](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/return_teaching/2019/PParty花费.xlsx)
+* [Party花费.xlsx（赵丰）](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/return_teaching/2019/Party花费.xlsx)
 
 ## 2018
 * [(内部)2018寒假高三小班返乡支教活动v9](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/return_teaching/(内部)2018寒假高三小班返乡支教活动v9.docx)
