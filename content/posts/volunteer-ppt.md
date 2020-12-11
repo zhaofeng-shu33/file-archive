@@ -15,3 +15,6 @@ draft: false
 * [2019GoogleDevFestShenzhen Speaking](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/devfest-google-shenzhen2019/DevFest2019GoogleTest.pptx) GoogleTest 在算法研发中的应用
 
 * [2019深圳启智开发者大会AI开源基础设施分论坛 Talk](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/openl2019-developer/如何为你的实验室搭建一个GPU集群V2.0.pptx) 如何为你的实验室搭建一个GPU集群
+
+* [2020 PyData Shenzhen Meetup](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/pyconfChina2019-shenzhen/2020-pydata-shenzhen.pdf) Lfdnn: A neural network library for tutorial purpose
+
